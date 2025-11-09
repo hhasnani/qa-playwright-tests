@@ -1,0 +1,15 @@
+qa-playwright-tests/
+│
+├── pom.xml
+├── testng.xml
+│
+└── src/
+    └── test/
+        ├── java/
+        │   ├── base/
+        │   │   └── TestBase.java
+        │   ├── pages/
+        │   │   └── BugsFormPage.java
+        │   └── tests/
+        │       └── BugsFormTests.java   ✅ (merged file)
+        └── resources/
